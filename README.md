@@ -1,5 +1,5 @@
 # :file_folder: cucumber-market
-- A toy project to develop the second-hand goods trading platform Oi Market, similar to Danggeun Market and Bungae Mart.
+- A toy project to develop the second-hand goods trading platform Oi Market, similar to Danggeun Market and Bungae Market.
 - The web UI was replaced with Kakao Oven, so the frontend was omitted to focus development on the backend.
 
 ## :pushpin: Development Focus
@@ -35,38 +35,26 @@
 ## :tv: Web Application UI
 :point_right: [**cucumber-market Prototype UI Kakao Oven link**](https://ovenapp.io/view/nlfjeRbawILO48ugsXrRsyt6UI2Bdusk/)
 
-**:point_down: Preview**
-<img src = "https://user-images.githubusercontent.com/86584999/145708688-c8295288-df79-48e0-a125-9b855bc4f560.PNG" width="90%" height="45%">
-<img src = "https://user-images.githubusercontent.com/86584999/145706256-0811c927-a8e4-45b1-8071-cc0b61496879.PNG" width="90%" height="45%">
-
 ## :clapper: Architecture
 :point_right: [**Full architecture link**](https://github.com/Hwangwonuk/cucumber-market/wiki/Architecture)
 :point_right: [**MySQL architecture link**](https://github.com/Hwangwonuk/cucumber-market/wiki/MySQL-Architecture)
 :point_right: [**Redis architecture link**](https://github.com/Hwangwonuk/cucumber-market/wiki/Redis-Architecture)
 
-- **Architecture**
-![Architecture](https://user-images.githubusercontent.com/86584999/148683016-53b8e2e7-c577-4e20-9d67-a8d586e7e6cd.jpg)
-
 ## :books: Layer
-<img src = "https://user-images.githubusercontent.com/86584999/145710572-9df24562-2fd7-45fe-98b7-6345a6aaac34.png">
+The layer architecture is documented in the project wiki and related resources.
 
 ## :floppy_disk: ERD
 :point_right: [**View details**](https://github.com/Hwangwonuk/cucumber-market/wiki/ERD)
 
-<img src = "https://user-images.githubusercontent.com/86584999/145718047-cef57cfa-e28e-40e8-80c3-f92923320a27.png">
-
 ## :page_with_curl: Springfox OpenAPI 3.0
 **:point_down: Springfox (Swagger) preview**
-
-<img src = "https://user-images.githubusercontent.com/86584999/145809566-f0551828-60de-45cc-9fde-f41e79e3d7f2.JPG">
-<img src = "https://user-images.githubusercontent.com/86584999/145809586-bcd7cdc8-4e8b-434c-9768-9260238c058d.JPG">
-<img src = "https://user-images.githubusercontent.com/86584999/145809600-3383f9c6-7d95-41df-be8b-c69ca4678472.JPG">
+The Swagger/OpenAPI documentation is available through the application and related API pages.
 
 ## :computer: Main Features
 :point_right: [**Business logic for each feature**](https://github.com/Hwangwonuk/cucumber-market/wiki/Business-Rule)
 :point_right: [**Use cases for each feature**](https://github.com/Hwangwonuk/cucumber-market/wiki/Use-Case)
 
-: b usts_in_silhouette: **Users**
+:busts_in_silhouette: **Users**
 - Sign up, withdraw
 - Log in, log out
 - My page, update profile information
